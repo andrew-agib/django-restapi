@@ -1,2 +1,0 @@
-# django-viewrs
-# django-viewrs
